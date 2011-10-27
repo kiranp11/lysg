@@ -1,0 +1,17 @@
+.bundle
+.rvmrc
+db/*.sqlite3
+log/*.log
+tmp/
+.sass-cache/
+.idea/
+mdi
+.DS_Store
+config/db_override.yml
+app/assets/stylesheets/compiled
+public/assets
+nohup.out
+.rspec
+coverage/
+tmtags
+.jhw-cache/
