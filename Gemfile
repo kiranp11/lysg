@@ -10,6 +10,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'heroku'
 gem 'redcarpet'
 
 group :test do
