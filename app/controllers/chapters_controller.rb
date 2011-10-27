@@ -1,5 +1,8 @@
 class ChaptersController < ApplicationController
- def index
+  def index
+  end
 
- end
+  def show
+    render :template=>"chapters/#{params[:id]}"
+  end
 end
