@@ -1,28 +1,43 @@
-A First Level Header
-====================
+Learn You A Sanskrit For Greater Good!
+====================================
 
-A Second Level Header
----------------------
+###1. [Introduction](chapters/introduction)
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+  * About this tutorial
 
-The quick brown fox jumped over the lazy
-dog's back.
+  * Why Sanskrit?
 
-### Header 3
+  * What you need to dive in
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+###2. [Chapter 1](chapters/chapter_1)
+  
+  * lesson 1
 
-Some of these words *are emphasized*.
-Some of these words _are emphasized also_.
+  * lesson 2
 
-Use two asterisks for **strong emphasis**.
-Or, if you prefer, __use two underscores instead__.
+  * lesson 3
 
-This is an [example link](http://example.com/).
+  * lesson 4
+
+  * lesson 5
+
+
+###3. [Chapter 2](chapters/chapter_2)
+
+  * lesson 1
+
+  * lesson 2
+
+  * lesson 3
+
+  * lesson 4
+
+###4. [Chapter 3](chapters/chapter_2)
+
+  * lesson 1
+
+  * lesson 2
+
+  * lesson 3
+
+  * lesson 4
